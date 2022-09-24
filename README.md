@@ -3,8 +3,10 @@ generates random username and passwords for quick and efficient use with your in
 
 # Running the program
 > To run the `password generator`, use this command in your shell:
+> 
 `python passwordgen.py`
 > To run the `username generator`, use this command in your shell:
+>
 `python usernamegen.py`
 
 Enjoy your username and password generator, generate them as much as you need!
